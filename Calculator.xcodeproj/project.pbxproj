@@ -54,14 +54,22 @@
 		CEC87505211E78E100BB60BE /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				CEC87506211E78E200BB60BE /* AppDelegate.swift */,
+				CEC87518211E790200BB60BE /* Supporting Files */,
 				CEC87508211E78E200BB60BE /* ViewController.swift */,
 				CEC8750A211E78E200BB60BE /* Main.storyboard */,
+			);
+			path = Calculator;
+			sourceTree = "<group>";
+		};
+		CEC87518211E790200BB60BE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CEC87506211E78E200BB60BE /* AppDelegate.swift */,
 				CEC8750D211E78E400BB60BE /* Assets.xcassets */,
 				CEC8750F211E78E400BB60BE /* LaunchScreen.storyboard */,
 				CEC87512211E78E400BB60BE /* Info.plist */,
 			);
-			path = Calculator;
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
